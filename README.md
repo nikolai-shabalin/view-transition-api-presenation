@@ -15,11 +15,11 @@
 
 ## Демонстрации
 
-
 ## Спецификации
 - [CSS View Transitions Module Level 1](https://drafts.csswg.org/css-view-transitions-1/)
 - [CSS View Transitions Module Level 2](https://drafts.csswg.org/css-view-transitions-2/)
 - [explainer](https://github.com/WICG/view-transitions/blob/main/explainer.md#why-do-we-need-a-new-api-for-this)
+- [Старая спецификация "Shared Element Transitions](https://github.com/WICG/proposals/issues/12)
 
 ## Примеры для вдохновения
 - https://codepen.io/geoffgraham/pen/MYWwJEd
