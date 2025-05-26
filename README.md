@@ -2,6 +2,8 @@
 
 Это материалы презентации по работе с API View Transition, которые были упомянуты на митапе PiterJS 27 мая 2025 в Петербурге.
 
+- [Презентация](./vta.pdf)
+
 ## Социальные сети спискера
 - [Канал в телеграме](https://t.me/greatAttractorCode)
 - [GitHub](https://github.com/nikolai-shabalin)
