@@ -1,6 +1,6 @@
 # view-transition-api-presenation
 
-Это материалы презентации по работе с API View Transition, которые были упомянуты на митапе PiterJS 27 мая 2025 в Петербурге.
+Это материалы презентации по работе с API View Transition.
 
 - [Презентация](./vta.pdf)
 
